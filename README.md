@@ -1,0 +1,2 @@
+# 4th-Order-Runge-Kutta-Differential-Equation-Approximation-Calculator
+c++ implementation of RK4 - an improved derivation of Euler's method and Euler's advanced method. The method uses 4 equation that evaluate the increments of approximation based on the slope at the beginning, middle and end of the interval. Note the middle approximation encompasses two measurements, one in between the mid point and initial point and one between the mid point and terminal point.
